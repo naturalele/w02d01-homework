@@ -22,8 +22,22 @@ console.log("peace");
 // };
 
 // 6. Object
-const class = {
-	student: [],
-	location: [],
-	favoriteTvShow: []
-};
+// const class = {
+// 	student: [],
+// 	location: [],
+// 	favoriteTvShow: []
+// };
+
+// Take it Easy
+
+const Rainbow = ["Red", "White", "Blue", "Green", "Orange", "Yellow"];
+console.log(Rainbow[2]);
+
+const Kate = {
+	favoriteFood: "Pizza",
+	hobby: "Swimming",
+	currentCity: "Denver",
+	favoriteDatatype: "Object"
+}
+
+console.log(Kate.hobby);
